@@ -28,12 +28,11 @@ body{
     border-radius: 10px;
 }
 .header{
-    padding: 0 60px;
-    
+    padding: 0 60px;  
 }
 #header{
     padding-top: 50px;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #eee;
 }
 .ak-es{
 }
@@ -49,13 +48,16 @@ body{
 }
 .pr{
     display: block;
+    margin: 0;
     margin-top: 50px;
     font-weight: 550;
+    font-size: 20px;
     color: #999;
 }
 .name{
     display: block;
     font-family: 'AdArSh';
+    font-size: 55px;
 }
 .ak-es{
     display: inline-block;
@@ -69,8 +71,9 @@ body{
     left: 0;
     margin: 0;
     margin:auto 0;
+    padding: 5px 0;
     color: #999;
-    font-weight: 600;
+    font-size: 20px;
 }
 .tozih{
     margin: 40px 0;
@@ -79,17 +82,32 @@ body{
 }
 .sec{
     margin-top: 60px;
-    padding-right: 50px;
+    padding: 0 60px;
+    padding-bottom: 30px;
+    display: inline-block;
 }
 .pj{
     font-size: 24px;
     font-weight: 600;
 }
-.pj-n{
+.pj-n-g{
     font-size: 20px;
     display: inline-block;
     margin-top: 15px;
     color: green;
+}
+.pj-n-r{
+    margin-top: 60px;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 15px;
+    color: red;
+}
+.pj-n-b{
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 15px;
+    color: blue;
 }
 .tr{
     color: #aaa;
@@ -97,5 +115,111 @@ body{
     margin-right: 10px;
 }
 .pj-p{
-    color: #777;
+    color: #888;
+    font-size: 18px;
+}
+.tagbox{
+    float: left;
+    color: #888;
+}
+.tag{
+    display: inline-block;
+    padding: 10px;
+}
+.pr-e{
+    margin-top: 60px;
+    display: block;
+}
+.pj-n-bl{
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 15px;
+    color: black;
+}
+.pj2{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.tr2{
+    color: #aaa;
+    display: inline-block;
+    margin-left: 10px;
+}
+.pr-e2{
+    margin-top: 10px;
+
+}
+.pr-e3{
+    margin-bottom: 60px;
+}
+.sidebar{
+    float: left;
+    padding: 0 60px;
+    margin-top: 60px;
+    border-right: 2px solid #eee;
+}
+.pj3{
+    font-size: 24px;
+    font-weight: 600;
+}
+.m-n{
+    display: inline-block;
+    font-weight: 600;
+}
+.m-m{
+    display: inline-block;
+    float: right;
+    color: #999;
+}
+.navar{
+    margin-bottom: 20px;
+}
+.gray{
+    width: 100%;
+    height: 3px;
+    border-radius: 50px;
+    background-color: rgba(202, 201, 201, 0.667)
+}
+.red{
+    width: 95%;
+    height: 3px;
+    border-radius: 50px;
+    background-color: red;
+    float: left;
+}
+.red-c{
+    width: 90%;
+    height: 3px;
+    border-radius: 50px;
+    background-color: red;
+    float: left;
+}
+.red-b{
+    width: 50%;
+    height: 3px;
+    border-radius: 50px;
+    background-color: red;
+    float: left;
+}
+.red-t{
+    width: 30%;
+    height: 3px;
+    border-radius: 50px;
+    background-color: red;
+    float: left;
+}
+.red-j{
+    width: 20%;
+    height: 3px;
+    border-radius: 50px;
+    background-color: red;
+    float: left;
+}
+.sn{
+    color: #888;
+}
+.sa{
+    font-size: 18px;
+    font-weight: 600;
 }
