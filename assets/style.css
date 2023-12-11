@@ -229,5 +229,19 @@ body{
     }
     .sidebar{
         width: 100%;
+        float: none;
+        padding-bottom: 30px;
+    }
+    .ak-es,{
+        width: 100%;
+        margin: auto;
+    }
+    .ad{
+        width: 100%;
+        text-align: center;
+    }
+    .tozih{
+        width: 100%;
+        text-align: center;
     }
 }
