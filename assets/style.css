@@ -249,6 +249,9 @@ body{
         display: block;
         padding: 10px 0;
     }
+    .pr{
+        margin-top: 300px;
+    }
     .ad{
         width: 100%;
         text-align: center;
