@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+@font-face {
+    font-family: 'AdArSh';
+    src: url('font/Adobe\ arabic\ shin.ttf');
+}
+@font-face {
+	font-family: 'Yekan';
+	src:	url('font/Yekan.eot'); /* IE9 Compat Modes */
+	src:	url('font/Yekan.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+			url('font/Yekan.woff2') format('woff2'), /* Modern Browsers */
+			url('font/Yekan.woff') format('woff'), /* Modern Browsers */
+			url('font/Yekan.otf') format('opentype'), /* Open Type Font */	
+			url('font/Yekan.ttf') format('truetype'); /* Safari, Android, iOS */
+	font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeLegibility;
+	font-display: auto;
+}
+body{
+    font-family: 'Yekan';
+}
+.cont{
+    box-shadow: 0 0 10px #aaa;
+    border-radius: 10px;
+}
+.header{
+    padding: 0 60px;
+    
+}
+#header{
+    padding-top: 50px;
+    border-bottom: 2px solid #ddd;
+}
+.ak-es{
+}
+.avatar{
+    width: 200px;
+    border-radius: 20px;
+    display: inline-block;
+    float: right;
+}
+.mo{
+    margin-right: 20px;
+    display: inline-block;
+}
+.pr{
+    display: block;
+    margin-top: 50px;
+    font-weight: 550;
+    color: #999;
+}
+.name{
+    display: block;
+    font-family: 'AdArSh';
+}
+.ak-es{
+    display: inline-block;
+}
+.ad{
+    display: inline-block;
+    float: left;
+    margin-top: 30px;
+}
+.p{
+    left: 0;
+    margin: 0;
+    margin:auto 0;
+    color: #999;
+    font-weight: 600;
+}
+.tozih{
+    margin: 40px 0;
+    color: #999;
+    font-size: 18px;
+}
+.sec{
+    margin-top: 60px;
+    padding-right: 50px;
+}
+.pj{
+    font-size: 24px;
+    font-weight: 600;
+}
+.pj-n{
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 15px;
+    color: green;
+}
+.tr{
+    color: #aaa;
+    display: inline-block;
+    margin-right: 10px;
+}
+.pj-p{
+    color: #777;
+}
