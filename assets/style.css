@@ -232,9 +232,17 @@ body{
         float: none;
         padding-bottom: 30px;
     }
-    .ak-es,{
+    .ak-es{
         width: 100%;
+        text-align: center;
+    }
+    .avatar{
+        display: block;
         margin: auto;
+    }
+    .mo{
+        width: 100%;
+        display: block;
     }
     .ad{
         width: 100%;
