@@ -224,6 +224,9 @@ body{
     font-weight: 600;
 }
 @media(max-width: 1080px){
+    .cont{
+        border-radius: 30px;
+    }
     .sec{
         width: 100%;
     }
@@ -239,6 +242,7 @@ body{
     .avatar{
         display: block;
         margin: auto;
+        width: 100%;
     }
     .mo{
         width: 100%;
@@ -252,5 +256,17 @@ body{
     .tozih{
         width: 100%;
         text-align: center;
+    }
+}
+@media(max-width: 1000px){
+    .mo{
+        margin: 0;
+        display: block;
+    }
+    .avatar{
+        width: 100%;
+    }
+    .pr{
+        margin-top: 300px;
     }
 }
