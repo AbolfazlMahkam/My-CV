@@ -44,12 +44,12 @@ body{
 }
 .mo{
     margin-right: 20px;
+    padding: 50px 0;
     display: inline-block;
 }
 .pr{
     display: block;
-    margin: 0;
-    margin: auto 0;
+    margin: auto;
     font-weight: 550;
     font-size: 20px;
     color: #999;
@@ -243,6 +243,7 @@ body{
     .mo{
         width: 100%;
         display: block;
+        padding: 10px 0;
     }
     .ad{
         width: 100%;
