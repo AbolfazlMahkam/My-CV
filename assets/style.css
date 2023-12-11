@@ -223,3 +223,11 @@ body{
     font-size: 18px;
     font-weight: 600;
 }
+@media(max-width: 1080px){
+    .sec{
+        width: 100%;
+    }
+    .sidebar{
+        width: 100%;
+    }
+}
