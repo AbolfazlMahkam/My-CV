@@ -5,7 +5,7 @@
     font-family: Open Sans;
 }
 body{
-    padding: 0 200px;
+    padding: 0 175px;
     display: flex;
     justify-content: space-between;
 }
@@ -46,8 +46,6 @@ a{
     font-family: Merriweather;
     font-size: 18px;
 }
-
-
 aside{
     padding: 50px 0;
     padding-left: 40px;
