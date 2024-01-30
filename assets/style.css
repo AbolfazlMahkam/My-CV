@@ -9,10 +9,55 @@ body{
     display: flex;
     justify-content: space-between;
 }
-@media (max-width: 1080px){
+@media(max-width: 1080px){
+    .h1{
+        font-size: 65px;
+    }
+    .h2{
+        font-size: 40px;
+    }
+    .h3{
+        font-size: 40px;
+    }
+    #fed{
+        font-size: 40px;
+    }
+    #AM, #bach{
+        font-size: 35px;
+        line-height: 45px;
+    }
+    #ws{
+        font-size: 30px;
+        margin-top: 38px;
+    }
+    #date{
+        font-size: 30px;
+    }
+    #info{
+        font-size: 35px;
+    }
+    #skn{
+        font-size: 35px;
+    }
+    #infoBx{
+        position: absolute;
+        top: 45px;
+        right: 20px;
+    }
     body{
+        padding: 0 20px;
+        display: block;
+        position: relative;
+    }
+    .section{
+        width: 100%;
+    }
+    .aside{
+        width: 100%;
         padding: 0;
-        padding-left: 20px;
+    }
+    #end{
+        padding-bottom: 50px;
     }
 }
 section{
@@ -37,6 +82,7 @@ h2{
     font-size: 20px;
     padding-top: 20px;
     text-align: justify;
+    line-height: 30px;
 }
 .WS{
     display: flex;
@@ -95,4 +141,9 @@ h3{
     margin-top: 10px;
     font-family: Merriweather;
     font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+}
+.end{
+    padding: 0;
 }
