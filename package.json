@@ -1,0 +1,44 @@
+{
+    "name": "resume-abolfazl-mahkam",
+    "version": "1.0.0",
+    "private": true,
+    "description": "resume-abolfazl-mahkam",
+    "author": "Abolfazl Mahkam",
+    "keywords": [
+        "gatsby"
+    ],
+    "scripts": {
+        "dev": "gatsby develop",
+        "start": "gatsby develop",
+        "build": "gatsby build",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "deploy": "gatsby build && gh-pages -d public",
+        "upgrade-interactive": "npm-check --update"
+    },
+    "dependencies": {
+        "@mdx-js/react": "^2.3",
+        "@react-pdf/renderer": "^3.1.12",
+        "fontkit": "^2.0.2",
+        "framer-motion": "^12.4.0",
+        "gatsby": "^5",
+        "gatsby-plugin-image": "^3",
+        "gatsby-plugin-manifest": "^5",
+        "gatsby-plugin-mdx": "^5",
+        "gatsby-plugin-sharp": "^5",
+        "gatsby-source-filesystem": "^5",
+        "gatsby-transformer-json": "^5",
+        "gatsby-transformer-sharp": "^5",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-pdf-html": "^1.1.18"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.13",
+        "gatsby-plugin-postcss": "^6.3.0",
+        "gh-pages": "^5.0.0",
+        "npm-check": "^6.0.1",
+        "postcss": "^8.4.27",
+        "tailwindcss": "^3.3.3"
+    }
+}
