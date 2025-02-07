@@ -2,9 +2,10 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+    pathPrefix: "/MY-CV",
     siteMetadata: {
-        title: `Resume Mohammad Javad Ghasemy`,
-        siteUrl: `https://resume.geeksesi.ir`,
+        title: `Resume Abolfazl Mahkam`,
+        siteUrl: `https://resume.abolfazl-mahkam.ir`,
     },
     plugins: [
         "gatsby-plugin-postcss",
