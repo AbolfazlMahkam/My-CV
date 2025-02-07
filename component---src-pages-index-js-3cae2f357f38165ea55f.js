@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkresume_abolfazl_mahkam=self.webpackChunkresume_abolfazl_mahkam||[]).push([[678],{6558:function(e,a,n){n.r(a),n.d(a,{Head:function(){return o}});var t=n(7294),l=n(1883);a.default=()=>("undefined"!=typeof window&&(0,l.navigate)("/frontend-developer"),t.createElement(l.Link,{to:"/frontend-developer/"}));const o=()=>t.createElement("title",null,"Resume Abolfazl Mahkam")}}]);
+//# sourceMappingURL=component---src-pages-index-js-3cae2f357f38165ea55f.js.map

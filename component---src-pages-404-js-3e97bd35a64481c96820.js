@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkresume_abolfazl_mahkam=self.webpackChunkresume_abolfazl_mahkam||[]).push([[883],{429:function(e,a,t){t.r(a),t.d(a,{Head:function(){return n}});var l=t(7294);t(1883);a.default=()=>l.createElement("h1",null,"NotFound");const n=()=>l.createElement("title",null,"Not found")}}]);
+//# sourceMappingURL=component---src-pages-404-js-3e97bd35a64481c96820.js.map
