@@ -10,3 +10,10 @@ body {
   font-weight: 500;
   font-style: normal;
 }
+
+.josefinsans {
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
